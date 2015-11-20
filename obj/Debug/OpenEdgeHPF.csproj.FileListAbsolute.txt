@@ -1,0 +1,13 @@
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\bin\Debug\OpenEdgeHPF.exe.config
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\bin\Debug\OpenEdgeHPF.exe
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\bin\Debug\OpenEdgeHPF.pdb
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\obj\Debug\OpenEdgeHPF.csprojResolveAssemblyReference.cache
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\obj\Debug\MainWindow.baml
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\obj\Debug\MainWindow.g.cs
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\obj\Debug\App.g.cs
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\obj\Debug\OpenEdgeHPF_MarkupCompile.cache
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\obj\Debug\OpenEdgeHPF.g.resources
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\obj\Debug\OpenEdgeHPF.Properties.Resources.resources
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\obj\Debug\OpenEdgeHPF.csproj.GenerateResource.Cache
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\obj\Debug\OpenEdgeHPF.exe
+c:\users\holderd\documents\visual studio 2013\Projects\OpenEdgeHPF\OpenEdgeHPF\obj\Debug\OpenEdgeHPF.pdb
